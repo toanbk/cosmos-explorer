@@ -1,14 +1,14 @@
 {
-    "chain_name": "Hedge-Testnet",
+    "chain_name": "Warden-Testnet",
     "api": [
         {
-            "address": "https://hedge-api.cherryvalidator.us", 
+            "address": "https://warden-api.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ], 
     "rpc": [
         {
-            "address": "https://hedge-rpc.cherryvalidator.us", 
+            "address": "https://warden-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ],
@@ -17,12 +17,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "hedge",
-    "logo": "/logos/hedge.png",
+    "logo": "/logos/warden.svg",
     "theme_color": "#812cd6",
     "assets": [{
-        "base": "uhedge",
-        "symbol": "Hedge",
+        "base": "uward",
+        "symbol": "WARD",
         "exponent": "6",
-        "logo": "/logos/hedge_token.svg"
+        "logo": "/logos/warden.svg"
     }]
 }
