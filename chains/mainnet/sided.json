@@ -1,0 +1,28 @@
+{
+    "chain_name": "SideProtocol-Testnet",
+    "api": [
+        {
+            "address": "https://sided-api.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://sided-rpc.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ],
+    "sdk_version": "0.47.3",
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "bc",
+    "logo": "/logos/sided.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uside",
+        "symbol": "SIDE",
+        "exponent": "6",
+        "logo": "/logos/sided.jpg"
+    }]
+}
