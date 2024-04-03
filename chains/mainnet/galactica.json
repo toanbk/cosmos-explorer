@@ -15,14 +15,14 @@
     "sdk_version": "0.47.3",
     "snapshot_provider": "",
     "coin_type": "118",
-    "min_tx_fee": "800",
+    "min_tx_fee": "1000",
     "addr_prefix": "gala",
     "logo": "/logos/galactica.jpeg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "agnet",
         "symbol": "GNET",
-        "exponent": "6",
+        "exponent": "12",
         "logo": "/logos/galactica.jpeg"
     }]
 }
