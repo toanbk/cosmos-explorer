@@ -14,7 +14,7 @@
     ],
     "sdk_version": "0.47.3",
     "snapshot_provider": "",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "1000",
     "addr_prefix": "gala",
     "logo": "/logos/galactica.jpeg",
