@@ -14,7 +14,7 @@
     ],
     "sdk_version": "0.47.3",
     "snapshot_provider": "",
-    "coin_type": "118",
+    "coin_type": "60",
     "min_tx_fee": "800",
     "addr_prefix": "evmos",
     "logo": "/logos/zg.svg",
