@@ -1,5 +1,5 @@
 {
-    "chain_name": "Hedge-Testnet",
+    "chain_name": "hedge-testnet",
     "api": [
         {
             "address": "https://hedge-testnet-api.cherryvalidator.us", 
