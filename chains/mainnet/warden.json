@@ -1,14 +1,14 @@
 {
-    "chain_name": "Warden-Testnet",
+    "chain_name": "warden-testnet",
     "api": [
         {
-            "address": "https://warden-api.cherryvalidator.us", 
+            "address": "https://warden-testnet-api.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ], 
     "rpc": [
         {
-            "address": "https://warden-rpc.cherryvalidator.us", 
+            "address": "https://warden-testnet-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ],
