@@ -2,13 +2,13 @@
     "chain_name": "Hedge-Testnet",
     "api": [
         {
-            "address": "https://hedge-api.cherryvalidator.us", 
+            "address": "https://hedge-testnet-api.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ], 
     "rpc": [
         {
-            "address": "https://hedge-rpc.cherryvalidator.us", 
+            "address": "https://hedge-testnet-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ],
@@ -17,7 +17,7 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "hedge",
-    "logo": "/logos/hedge.png",
+    "logo": "/logos/hedge.svg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "uhedge",
