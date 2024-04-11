@@ -17,12 +17,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "aligned",
-    "logo": "/logos/aligned.webp",
+    "logo": "/logos/alignedlayer.svg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "stake",
         "symbol": "AL",
         "exponent": "6",
-        "logo": "/logos/aligned.webp"
+        "logo": "/logos/alignedlayer.svg"
     }]
 }
