@@ -2,13 +2,13 @@
     "chain_name": "Aligned-Layer-Testnet",
     "api": [
         {
-            "address": "https://alignedlayer-api.cherryvalidator.us", 
+            "address": "https://alignedlayer-testnet-api.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ], 
     "rpc": [
         {
-            "address": "https://alignedlayer-rpc.cherryvalidator.us", 
+            "address": "https://alignedlayer-testnet-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
         }
     ],
@@ -17,12 +17,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "aligned",
-    "logo": "/logos/aligned.jpg",
+    "logo": "/logos/aligned.webp",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "stake",
         "symbol": "AL",
         "exponent": "6",
-        "logo": "/logos/aligned.jpg"
+        "logo": "/logos/aligned.webp"
     }]
 }
