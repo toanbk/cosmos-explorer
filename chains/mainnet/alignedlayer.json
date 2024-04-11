@@ -1,5 +1,5 @@
 {
-    "chain_name": "Aligned-Layer-Testnet",
+    "chain_name": "aligned-layer-testnet",
     "api": [
         {
             "address": "https://alignedlayer-testnet-api.cherryvalidator.us", 
