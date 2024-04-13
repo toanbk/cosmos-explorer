@@ -1,0 +1,28 @@
+{
+    "chain_name": "swisstronik-testnet",
+    "api": [
+        {
+            "address": "https://swisstronik-testnet-api.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://swisstronik-testnet-rpc.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ],
+    "sdk_version": "0.37.2",
+    "snapshot_provider": "",
+    "coin_type": "60",
+    "min_tx_fee": "1000",
+    "addr_prefix": "swtr",
+    "logo": "/logos/swisstronik.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uswtr",
+        "symbol": "SWTR",
+        "exponent": "18",
+        "logo": "/logos/swisstronik.png"
+    }]
+}
