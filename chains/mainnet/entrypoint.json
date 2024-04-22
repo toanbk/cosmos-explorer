@@ -1,0 +1,28 @@
+{
+    "chain_name": "entrypoint-testnet",
+    "api": [
+        {
+            "address": "https://entrypoint-testnet-api.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://entrypoint-testnet-rpc.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ],
+    "sdk_version": "0.37.2",
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "entrypoint",
+    "logo": "/logos/entrypoint.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uentry",
+        "symbol": "ENTRY",
+        "exponent": "6",
+        "logo": "/logos/entrypoint.png"
+    }]
+}
