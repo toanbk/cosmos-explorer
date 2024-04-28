@@ -16,7 +16,7 @@
     "snapshot_provider": "",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "warden",
+    "addr_prefix": "mantra",
     "logo": "/logos/hongbai.svg",
     "theme_color": "#812cd6",
     "assets": [{
