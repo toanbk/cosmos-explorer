@@ -1,0 +1,28 @@
+{
+    "chain_name": "cardchain-testnet",
+    "api": [
+        {
+            "address": "https://cardchain-testnet-api.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://cardchain-testnet-rpc.cherryvalidator.us", 
+            "provider": "CherryValidator"
+        }
+    ],
+    "sdk_version": "0.34.29",
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cc",
+    "logo": "/logos/cardchain.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "ubpf",
+        "symbol": "BPF",
+        "exponent": "6",
+        "logo": "/logos/cardchain.png"
+    }]
+}
