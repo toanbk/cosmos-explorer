@@ -4,15 +4,23 @@
         {
             "address": "https://warden-testnet-api.cherryvalidator.us", 
             "provider": "CherryValidator"
+        },
+        {
+            "address": "https://warden-testnet-api.itrocket.net",
+            "provider": "ITRocket"
         }
     ], 
     "rpc": [
         {
             "address": "https://warden-testnet-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
+        },
+        {
+            "address": "https://warden-testnet-rpc.itrocket.net",
+            "provider": "ITRocket"
         }
     ],
-    "sdk_version": "0.47.3",
+    "sdk_version": "0.38.12",
     "snapshot_provider": "",
     "coin_type": "118",
     "min_tx_fee": "800",
@@ -20,9 +28,9 @@
     "logo": "/logos/warden.svg",
     "theme_color": "#812cd6",
     "assets": [{
-        "base": "uward",
+        "base": "award",
         "symbol": "WARD",
-        "exponent": "6",
+        "exponent": "18",
         "logo": "/logos/warden.svg"
     }]
 }
