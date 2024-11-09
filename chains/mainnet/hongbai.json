@@ -1,5 +1,5 @@
 {
-    "chain_name": "hongbai-testnet",
+    "chain_name": "dukong-testnet",
     "api": [
         {
             "address": "https://hongbai-testnet-api.cherryvalidator.us", 
