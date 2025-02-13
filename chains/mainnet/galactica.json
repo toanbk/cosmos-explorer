@@ -4,12 +4,20 @@
         {
             "address": "https://galactica-testnet-api.cherryvalidator.us", 
             "provider": "CherryValidator"
+        },
+        {
+            "address": "https://galactica-testnet-api.polkachu.com", 
+            "provider": "Polkachu"
         }
     ], 
     "rpc": [
         {
             "address": "https://galactica-testnet-rpc.cherryvalidator.us", 
             "provider": "CherryValidator"
+        },
+        {
+            "address": "https://galactica-testnet-rpc.polkachu.com", 
+            "provider": "Polkachu"
         }
     ],
     "sdk_version": "0.47.3",
