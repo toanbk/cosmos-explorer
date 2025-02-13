@@ -8,6 +8,10 @@
         {
             "address": "https://galactica-testnet-api.polkachu.com", 
             "provider": "Polkachu"
+        },
+        {
+            "address": "https://galactica.api.t.anode.team", 
+            "provider": "Anode"
         }
     ], 
     "rpc": [
@@ -18,6 +22,10 @@
         {
             "address": "https://galactica-testnet-rpc.polkachu.com", 
             "provider": "Polkachu"
+        },
+        {
+            "address": "https://galactica.rpc.t.anode.team", 
+            "provider": "Anode"
         }
     ],
     "sdk_version": "0.47.3",
