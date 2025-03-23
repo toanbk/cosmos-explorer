@@ -20,7 +20,7 @@
     "logo": "/logos/airchain.jpeg",
     "theme_color": "#812cd6",
     "assets": [{
-        "base": "amf",
+        "base": "uamf",
         "symbol": "AMF",
         "exponent": "6",
         "logo": "/logos/airchain.jpeg"
